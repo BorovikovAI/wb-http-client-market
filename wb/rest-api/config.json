@@ -1,0 +1,12 @@
+{
+  "DB": {
+    "user": "postgres",
+    "password": "pass1488",
+    "DBName": "wbdb",
+    "SSLMode": "disable"
+  },
+  "listen": {
+    "host": "127.0.0.1",
+    "port": "8010"
+  }
+}
